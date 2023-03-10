@@ -1,10 +1,10 @@
-# zesk.js
+# zeck.js
 Lightweight package for discord.js that supports many cool features
 <p align="center">
-   <a href="https://www.npmjs.com/package/zesk.js"><img src="https://img.shields.io/npm/v/zesk.js.svg?style=flat-square" /></a>
+   <a href="https://www.npmjs.com/package/zeck.js"><img src="https://img.shields.io/npm/v/zeck.js.svg?style=flat-square" /></a>
  <img src="https://nuggies.js.org/assets/img/license.ade17f5e.svg" /></a>
    <br>
-   <a href="https://www.npmjs.com/package/zesk.js"><img src="https://nodei.co/npm/zesk.js.png?downloadRank=true&downloads=true&downloadRank=true&stars=true" /></a>
+   <a href="https://www.npmjs.com/package/zeck.js"><img src="https://nodei.co/npm/zeck.js.png?downloadRank=true&downloads=true&downloadRank=true&stars=true" /></a>
 </p>
 
 ---
@@ -21,7 +21,7 @@ Lightweight package for discord.js that supports many cool features
 # Functions
 > Confirm Buttons
 ```js
-const { confirmButtons } = require("zesk.js");
+const { confirmButtons } = require("zeck.js");
 const { EmbedBuilder, ButtonStyle } = require("discord.js")
 ```
 
