@@ -22,7 +22,7 @@ Lightweight package for discord.js that supports many cool features
 > Confirm Buttons
 ```js
 const { confirmButtons } = require("zeck.js");
-const { EmbedBuilder, ButtonStyle } = require("discord.js")
+const { EmbedBuilder, ButtonStyle } = require("discord.js");
 ```
 
 ```js
