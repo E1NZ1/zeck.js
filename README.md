@@ -1,5 +1,6 @@
 # zeck.js
-Lightweight package for discord.js that supports many cool features
+Lightweight package for discord.js that supports many cool features.
+download now!!
 <p align="center">
    <a href="https://www.npmjs.com/package/zeck.js"><img src="https://img.shields.io/npm/v/zeck.js.svg?style=flat-square" /></a>
  <img src="https://nuggies.js.org/assets/img/license.ade17f5e.svg" /></a>
